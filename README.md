@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antsatsaroana&label=Profile%20views&color=0e75b6&style=flat" alt="antsatsaroana" /> </p>
 
-- 🌱 I’m currently learning **Mongodb, Node, Express, Reactjs (MERN Stack))**
+- 🌱 I’m currently learning **Mongodb, Node, Express, Reactjs (MERN Stack)**
 
 - 🤝 This is my [online CV](https://online-cv-8dc79.firebaseapp.com/)
 
