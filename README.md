@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **antsaroana@gmail.com**
 
+- 📱 This is my phone number **+261349495645**
+
 - ⚡ Fun fact **I'm funny 😂**
 
 <h3 align="left">Connect with me:</h3>
