@@ -13,7 +13,7 @@
 
 - 📱 This is my phone number **+261349495645**
 
-- ⚡ Fun fact **I'm funny 😂**
+- ⚡ Fun fact **I'm so funny 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
